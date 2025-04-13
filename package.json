@@ -29,5 +29,8 @@
     "nanoid": "^4.0.1",
     "vuetify": "^3.0.6"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "license": "MIT"
 }
